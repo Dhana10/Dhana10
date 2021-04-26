@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhana10
 - 👀 I’m interested Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning   
-- 💞️ I’m looking to collaborate on Machine Learning enthusiast
+- 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 How to reach me ...
 
 <!---
