@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Hey+there!+I'm+Dhana+%F0%9F%91%8B;AI+Engineer+%7C+DevOps+%7C+SRE;BBuilding+Intelligent+Infrastructure+on+Azure+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Hey+there!+I'm+Dhana+%F0%9F%91%8B;AI+Engineer+%7C+DevOps+%7C+SRE;Building+Intelligent+Infrastructure+on+Azure+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -113,16 +113,10 @@ Full website rebuild for a contamination-control company — clean **HTML/CSS/JS
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhana10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhana10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhana10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -154,7 +148,5 @@ Full website rebuild for a contamination-control company — clean **HTML/CSS/JS
 <div align="center">
 
 *"Infrastructure is boring until it's not. AI makes it interesting again."* 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dhana10&color=0ea5e9&style=flat-square&label=Profile+Views)
 
 </div>
