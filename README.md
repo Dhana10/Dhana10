@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Hey+there!+I'm+Dhana+%F0%9F%91%8B;AI+Engineer+%7C+DevOps+%7C+SRE;  Building+Intelligent+Infrastructure+on+Azure+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Hey+there!+I'm+Dhana+%F0%9F%91%8B;AI+Engineer+%7C+DevOps+%7C+SRE;Building+Intelligent+Infrastructure+on+Azure+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
