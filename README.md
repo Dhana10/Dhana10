@@ -8,6 +8,10 @@
 &nbsp;
 ![Open To Work](https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=for-the-badge&logo=handshake&logoColor=white)
 
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/🔗_Visit_My-Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://dhana10.github.io/)
+
 </div>
 
 ---
@@ -137,6 +141,8 @@ Full website rebuild for a contamination-control company — clean **HTML/CSS/JS
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhana10.github.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhana10.github.io/)
+&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-dhanashekhar520@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanashekhar520@gmail.com)
 &nbsp;
 [![Phone](https://img.shields.io/badge/Phone-%2B1--414--394--7203-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+14143947203)
