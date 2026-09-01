@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/Dhana10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI+Data+Professional+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+Engineer+%F0%9F%A7%A0;Building+AI+Agents+%26+Automation+%E2%9A%A1;Cloud+%2B+Data+on+Azure+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI+Data+Professional+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+Engineer+%F0%9F%A7%A0;Building+AI+Agents+%26+Automation+%E2%9A%A1;Cloud+%2B+Data+on+Azure+%26+Cloudflare+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <!-- ====================== SOCIAL / CONTACT BADGES ====================== -->
@@ -30,12 +30,13 @@ role:       AI / Data Professional
 location:   New York, USA 🇺🇸
 focus:      [ Machine Learning, Deep Learning, AI Agents, Data Engineering ]
 learning:   [ Agentic Engineering, LLM Orchestration, MCP, Web3 ]
-building:   Autonomous agents, ML pipelines & data-driven products
+building:   Autonomous agents, ML pipelines, GenAI & data-driven products
 mindset:    "Ship, measure, iterate — let the loop do the work."
 ```
 
-- 🤖 I build **AI agents & automation** — from bank-statement bots to agentic engineering workflows (Claude Code skills, MCP, LLM routing).
+- 🤖 I build **AI agents & automation** — from document/banking bots to agentic engineering workflows (Claude Code skills, MCP, LLM routing).
 - 🧠 I train and ship **ML / Deep Learning** models — computer vision (CNN/LSTM), classification, regression & predictive analytics.
+- 🌐 I do **freelance / client web development** — SEO-first, fast marketing sites, shipped on Cloudflare Pages & Workers.
 - ☁️ I work across the **cloud + data stack** — Python, TypeScript, C#/.NET, and Azure (Container Apps, Bicep/IaC).
 - 🌱 Currently going deep on **agentic engineering**, LLM orchestration & Web3.
 - 💬 Ask me about **AI, ML, data pipelines, agents, or cloud deployment.**
@@ -73,10 +74,12 @@ mindset:    "Ship, measure, iterate — let the loop do the work."
 
 ### Cloud, Web & Tools
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep_%2F_IaC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -84,15 +87,17 @@ mindset:    "Ship, measure, iterate — let the loop do the work."
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Work
 
-### 🤖 AI Agents & Automation
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**bank-statement-bot**](https://github.com/Dhana10/bank-statement-bot) | Automated bot for parsing & processing bank statements | `TypeScript` |
-| [**bank-statements-download-agent**](https://github.com/Dhana10/bank-statements-download-agent) | Agent that logs in and auto-downloads bank statements | `Python` |
-| [**leap-insights-workspace**](https://github.com/Dhana10/leap-insights-workspace) | LEAP Generative Insights — Next.js app with Azure Bicep/IaC | `TypeScript` · `Azure` |
-| [**TechTrakModern**](https://github.com/Dhana10/TechTrakModern) | Modern tech-tracking web platform | `HTML` · `Web` |
+> Selected work from private & client repositories — code not public, but here's what I've been building.
+
+- **🏭 Freelance Web Development** — Designed & shipped a modern, SEO-first marketing website for a contamination-control manufacturing client. Plain HTML/CSS/JS (no frameworks), light/dark theming, form integration & sitemap/SEO foundation, auto-deployed on **Cloudflare Pages/Workers**.
+- **📈 LEAP — Generative Insights Platform** — A large **Next.js + Azure** application (TypeScript · Python · Bicep IaC · PostgreSQL) for generative, data-driven insights, provisioned entirely as infrastructure-as-code. *(Public workspace: [leap-gen-insights](https://github.com/Dhana10/leap-gen-insights))*
+- **🏦 Banking Automation Agents** — Bots & agents (TypeScript + Python) that log in, download, parse and process bank statements end-to-end.
+
+---
+
+## 🚀 Featured Open-Source Projects
 
 ### 🧠 Machine Learning & Deep Learning
 | Project | Description | Stack |
@@ -100,16 +105,22 @@ mindset:    "Ship, measure, iterate — let the loop do the work."
 | [**Image-Caption-Generator (LSTM + CNN)**](https://github.com/Dhana10/Image-Caption-Generetor-using-LSTM-and-CNN) | Generates natural-language captions for images | `Jupyter` · `DL` |
 | [**Smart Surveillance & Alert System**](https://github.com/Dhana10/Smart-Suveillance-and-Alert-System) | Real-time surveillance with intelligent alerting | `Jupyter` · `CV` |
 | [**Facial Expression Recognition**](https://github.com/Dhana10/Facial-Expression) | Detects emotions from facial expressions ⭐ | `Python` · `CV` |
-| [**Cricket Score Prediction**](https://github.com/Dhana10/Cricket_Score_prediction) | Predictive model for cricket match scores | `Jupyter` · `ML` |
 | [**AgroHub.AI**](https://github.com/Dhana10/AgroHub.AI) | AI-driven platform for agriculture insights | `Python` |
-| [**Iris Classifier**](https://github.com/Dhana10/Iris-Classifier) · [**Salary Prediction**](https://github.com/Dhana10/SalaryPrediction) · [**Linear Regression**](https://github.com/Dhana10/Simple-Linear-Regression) | Classic ML fundamentals & deployed models ⭐ | `Python` · `ML` |
+| [**Cricket Score Prediction**](https://github.com/Dhana10/Cricket_Score_prediction) | Predictive model for cricket match scores | `Jupyter` · `ML` |
+
+### 🔬 ML Fundamentals & Deployed Models
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**Iris Classification — Flask App**](https://github.com/Dhana10/Iris-Classification-Flask-App) | ML model served as a web app | `Flask` · `ML` |
+| [**Simple Linear Regression**](https://github.com/Dhana10/Simple-Linear-Regression) | Regression from first principles ⭐ | `Python` · `ML` |
+| [**Salary Prediction**](https://github.com/Dhana10/SalaryPrediction) · [**Iris Classifier**](https://github.com/Dhana10/Iris-Classifier) | Classic supervised-learning models | `Python` · `ML` |
+| [**Python Programming**](https://github.com/Dhana10/PythonProgramming) | Python practice & foundations | `Python` |
 
 ### 🌐 Web & Portfolio
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**scg-website**](https://github.com/Dhana10/scg-website) | Modern responsive website build | `TypeScript` |
-| [**TechTrakWebsite**](https://github.com/Dhana10/TechTrakWebsite) | Company/product marketing site | `CSS` |
 | [**Portfolio**](https://github.com/Dhana10/Protfolio) | Personal developer portfolio | `TypeScript` |
+| [**leap-gen-insights**](https://github.com/Dhana10/leap-gen-insights) | Generative insights workspace | `TypeScript` |
 
 ---
 
